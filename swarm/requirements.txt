@@ -1,0 +1,4 @@
+langgraph-swarm==0.0.14
+langchain-openai==0.3.33
+fastapi==0.117.1
+uvicorn
